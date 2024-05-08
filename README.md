@@ -1,6 +1,6 @@
-# PYGAME+PYGBAG template
+# Falling Stars
 
-A working template to start coding. Just a colored screen and some infrastructure.
+Collect as many stars as possible.
 
 ### deploy virtual environment
 
